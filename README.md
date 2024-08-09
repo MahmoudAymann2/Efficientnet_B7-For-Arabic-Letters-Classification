@@ -4,10 +4,15 @@ Installation
 To run this project, you'll need to have Python and the following libraries installed:
 
 PyTorch
+
 torchvision
+
 PIL (Pillow)
+
 NumPy
+
 Matplotlib
+
 
 This notebook implements a deep learning model using the EfficientNet-B7 architecture for the task of Arabic letters classification. The notebook is structured to provide a step-by-step guide for loading the dataset, preprocessing the images, building and fine-tuning the EfficientNet-B7 model, and evaluating its performance.
 
